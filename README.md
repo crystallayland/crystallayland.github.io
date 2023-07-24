@@ -36,11 +36,13 @@ _Risk & Compliance Professional based in Onalaska, Wisconsin_ 🇺🇸 <br>
 * Collaborate with clients to identify process inefficiencies and implemented strategic improvements, resulting in increased operational efficiency and cost savings. 
 * Conduct thorough data analysis to identify areas for improvement, streamline workflows, and enhance overall productivity. 
 * Develop and deliver customized training programs to ensure smooth implementation of process changes and maximize employee performance. 
-* Provide ongoing support and guidance to clients, assisting them in maintaining continuous process improvement. 
+* Provide ongoing support and guidance to clients, assisting them in maintaining continuous process improvement. <br>
+
 # 🎤 **PUBLIC SPEAKING**
 
 
 # 🏆**OTHER CAREER HIGHLIGHTS**
+
 
 # 👩🏼‍🎓**EDUCATION**
 
@@ -50,11 +52,11 @@ _Risk & Compliance Professional based in Onalaska, Wisconsin_ 🇺🇸 <br>
 
 # 👩🏼‍💻**CERTIFICATIONS**
 
-**ISC2 Certified in Cybersecurity (CC)** | ISC2, In progress <br>
-**ISACA CISA Online Training** | CBT Nuggets, In progress <br>
-**PCI Compliance** | Qualys, 2023 <br>
-**Policy Compliance** | Qualys, 2023 <br>
-**Vulnerability Management** | Qualys, 2023 <br>
-**Project Management Advancement Program (PMAP) Training** | WSP, 2023 <br>
-**Google Project Management Professional Certificate** | Coursera, 2022 <br>
+**ISC2 Certified in Cybersecurity (CC)** | [(isc)2](https://www.isc2.org), In progress <br>
+**ISACA CISA Online Training** | [CBT Nuggets](https://www.cbtnuggets.com/it-training/cyber-security/isaca-cisa), In progress <br>
+**PCI Compliance** | [Qualys](https://www.qualys.com), 2023 <br>
+**Policy Compliance** | [Qualys](https://www.qualys.com), 2023 <br>
+**Vulnerability Management** | [Qualys](https://www.qualys.com), 2023 <br>
+**Project Management Advancement Program (PMAP) Training** | [WSP USA, Inc.](https://www.wsp.com/en-us), 2023 <br>
+**Google Project Management Professional Certificate** | [Coursera](https://coursera.org/share/64abd20ea259506709d308e763255337), 2022 <br>
 
