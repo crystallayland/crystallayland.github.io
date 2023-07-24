@@ -39,10 +39,18 @@ _Risk & Compliance Professional based in Onalaska, Wisconsin_ 🇺🇸 <br>
 * Provide ongoing support and guidance to clients, assisting them in maintaining continuous process improvement. <br>
 
 # 🎤 **PUBLIC SPEAKING**
-
+- Host of Her Fearless Hustle the Podcast, <i>(2016-2021)</i>
+- Discussion Panelist @ Coulee Region Professional Women <i>(2019)</i>
+- Keynote Speaker @ [Women with Purpose](wwpwi.org)
+- Keynote Speaker @ [Woman's Club of Minneapolis](https://www.womansclub.org)
 
 # 🏆**OTHER CAREER HIGHLIGHTS**
-
+- Pioneered inventory analyst position building out an effective inventory management system and supporting processes which improved accurate monitoring of the profit and loss of products in 14 establishments, tracking product patterns, shortages, and cost variances
+- Led staff training and assisted with multiple accounting functions including in the areas of accounts payable, accounts receivable, year-end tax projects, and payroll administration for a national bar and restaurant company
+- Managed general accounting and administrative duties, accounts receivable benefits, payroll, insurance, 401K programs, and employee records for a law office of 10 employees
+- Consulted with small businesses on organizational and time management methods to improve office productivity
+- Facilitated training on organizational skills and time management methods and developed customized work plans to carry out organizing methodology
+- Developed instructional plans and facilitated college courses in the areas of Business Law, Career Development, and Introduction to Business; and evaluated students writing and subject matter competency 
 
 # 👩🏼‍🎓**EDUCATION**
 
