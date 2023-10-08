@@ -5,19 +5,19 @@ _Privacy & Data Protection Professional based in Onalaska, Wisconsin_ 🇺🇸 <
 
 # 💡**PROFESSIONAL OVERVIEW**
 
-**Compliance and Audit Experience:** Ensure compliance with project financial management policies and procedures, supporting financial audits, and implementing financial controls and procedures to mitigate risks. Adept at conducting risk assessments and implement risk mitigation strategies.<br>
+- **Compliance and Audit Experience:** Ensure compliance with project financial management policies and procedures, supporting financial audits, and implementing financial controls and procedures to mitigate risks. Adept at conducting risk assessments and implement risk mitigation strategies.<br>
 
-**Financial Reporting and Analysis:** Expertise in preparing financial reports and analysis to support decision-making processes. Experience in analyzing project financial data and providing valuable insights to support strategic decision-making.<br>
+- **Financial Reporting and Analysis:** Expertise in preparing financial reports and analysis to support decision-making processes. Experience in analyzing project financial data and providing valuable insights to support strategic decision-making.<br>
 
-**Process Improvement:** Consult with global businesses to improve operational systems, processes, and workflows. Proven ability to identify process inefficiencies, implement strategic improvements, and streamline workflows.<br>
+- **Process Improvement:** Consult with global businesses to improve operational systems, processes, and workflows. Proven ability to identify process inefficiencies, implement strategic improvements, and streamline workflows.<br>
 
-**Communication and Stakeholder Management:** Experience collaborating with cross-functional teams, coordinating with internal stakeholders and external auditors, and presenting financial reports to senior management and executives. Able to communicate effectively and facilitate understanding among stakeholders.<br>
+- **Communication and Stakeholder Management:** Experience collaborating with cross-functional teams, coordinating with internal stakeholders and external auditors, and presenting financial reports to senior management and executives. Able to communicate effectively and facilitate understanding among stakeholders.<br>
 
-**Risk Management and Mitigation:** Experience in conducting risk assessments, identifying areas for process optimization, and implementing risk mitigation strategies. Able to identify control design gaps and assist in related remediation measures.<br>
+- **Risk Management and Mitigation:** Experience in conducting risk assessments, identifying areas for process optimization, and implementing risk mitigation strategies. Able to identify control design gaps and assist in related remediation measures.<br>
 
-**Technical Aptitude:** Strong and diverse technical background and knowledge of IT policies and procedures, GRC software,  support tools, IT service management, and SDLC processes. Proficient with Microsoft Office Suite, especially Excel functions for data analysis.<br>
+- **Technical Aptitude:** Strong and diverse technical background and knowledge of IT policies and procedures, GRC software,  support tools, IT service management, and SDLC processes. Proficient with Microsoft Office Suite, especially Excel functions for data analysis.<br>
 
-**Project Management:** Skilled at managing project finances, including budgeting, forecasting, and cost control. Skilled in managing complex projects, policy initiatives, and providing insightful reporting. <br>
+- **Project Management:** Skilled at managing project finances, including budgeting, forecasting, and cost control. Skilled in managing complex projects, policy initiatives, and providing insightful reporting. <br>
 
 # 📈 **EXPERIENCE**
 
@@ -33,7 +33,7 @@ _Privacy & Data Protection Professional based in Onalaska, Wisconsin_ 🇺🇸 <
 **Process Improvement Consultant** @ [Crystal Layland Media, LLC](https://www.crystallayland.com) <i>(01/2013 - Present)</i>  <br>
 <I>Business Consulting, Risk Management, Compliance</I> <br>
 
-* Consulted with global businesses to ** achieve a 20% increase in operational efficiency by improving systems and processes** and reduced communication gaps, **resulting in a 15% improvement in team collaboration**.
+* Consulted with global businesses to **achieve a 20% increase in operational efficiency by improving systems and processes** and reduced communication gaps, **resulting in a 15% improvement in team collaboration**.
 * Presented key findings and recommendations to senior leadership and executives, leading to a **10% improvement in consensus and decision-making**.
 * Established critical KPIs that contributed to a **12% enhancement in business performance**.
 * Leveraged expertise in business analysis and strategic planning to oversee the implementation of technical system changes, **leading to a 25% boost in efficiency**.
